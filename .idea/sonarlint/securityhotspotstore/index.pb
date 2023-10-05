@@ -1,3 +1,7 @@
 
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+è
+_springboot_osis_finaltask2/springboot_osis_finaltask2/src/main/resources/application.properties,9\a\9a6620b576af110555c61d9f509fd87ab4390be5
+m
+=springboot_osis_finaltask2/springboot_osis_finaltask2/pom.xml,9\a\9a0e97adf6f90be3b897ae256a86363b005157c7
