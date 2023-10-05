@@ -5,3 +5,5 @@
 _springboot_osis_finaltask2/springboot_osis_finaltask2/src/main/resources/application.properties,9\a\9a6620b576af110555c61d9f509fd87ab4390be5
 m
 =springboot_osis_finaltask2/springboot_osis_finaltask2/pom.xml,9\a\9a0e97adf6f90be3b897ae256a86363b005157c7
+Æ
+•springboot_osis_finaltask2/springboot_osis_finaltask2/src/main/java/es/javaschool/springboot_osis_finaltask2/SpringbootOsisFinaltask2Application.java,a\8\a87e0f7fc4a327f0b8251feee4dee88f9d7b7600
